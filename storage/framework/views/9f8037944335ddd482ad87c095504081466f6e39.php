@@ -1,0 +1,2 @@
+<h3><?php echo trans('common/box_habbo_way.title', ['hotelName' => $chocolatey->hotelName]); ?></h3>
+<p><?php echo trans('common/box_habbo_way.description', ['hotelName' => $chocolatey->hotelName, 'shortName' => $chocolatey->shortName]); ?></p>
